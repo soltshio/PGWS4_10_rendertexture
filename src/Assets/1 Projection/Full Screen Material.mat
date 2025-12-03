@@ -166,7 +166,7 @@ Material:
     - _ProbeCenter: {r: 0, g: 7, b: 6, a: 0}
     - _ProbeCenterBias: {r: 0, g: 0, b: 0, a: 0}
     - _Probe_Center: {r: 0, g: 7, b: 6, a: 0}
-    - _Probe_Center_Bias: {r: 1.9463016, g: 0, b: 0, a: 0}
+    - _Probe_Center_Bias: {r: 0.35831717, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _UV00World: {r: -2.5, g: 0, b: 5, a: 0}
   m_BuildTextureStacks: []
